@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeLearn</string>
+    <string name="game_guess_welcome">The Word is out of order, Guess the right word:</string>
+</resources>
