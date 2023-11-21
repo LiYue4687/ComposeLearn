@@ -4,11 +4,11 @@ Jatpack Compose学习
 
 ## 项目结构
 MainActivity：主入口 \
-**ui** \
+**ui**
 - GameScreen：游戏屏幕
 - GameViewModel：管理游戏数据和状态，游戏功能函数也实现在里面
-- GameUiState：状态辅助类，在GameViewModel使用MutableStateFlow作为状态流，在GameScreen中collet为状态State（collectAsState）并使用\
-**data**：数据层 \
+- GameUiState：状态辅助类，在GameViewModel使用MutableStateFlow作为状态流，在GameScreen中collet为状态State（collectAsState）并使用
+**data**：数据层
 - GuessItem：存储的单词Entity\
 
 ## init: 2023/11/21
